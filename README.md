@@ -1,5 +1,5 @@
 # [BOT Bionic_X](https://lichess.org/@/Bionic_X)
-###### A CHESS ROBOT HOSTED ON [LICHESS.ORG](https://lichess.org) AND POWERED BY [GOOGLE CLOUD](https://cloud.google.com)
+<h6> A CHESS ROBOT HOSTED ON </h6> <a href="https://lichess.org" _target="blank">lichess.org</a> AND POWERED BY [GOOGLE CLOUD](https://cloud.google.com)
 
 ### What is Computer Chess?
 Computer chess includes both hardware (dedicated computers) and software capable of playing chess. Computer chess provides opportunities for players to practice even in the absence of human opponents, and also provides opportunities for analysis, entertainment and training. [Read More](https://en.wikipedia.org/wiki/Computer_chess)

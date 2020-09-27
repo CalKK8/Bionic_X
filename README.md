@@ -1,13 +1,13 @@
 # [BOT Bionic_X](https://lichess.org/@/Bionic_X)
 ###### A CHESS ROBOT HOSTED ON 
-<a href="https://lichess.org" _target="blank">lichess.org</a>
+<a href="https://lichess.org" _target="blank">lichess.org</a> and
 <a href="https://cloud.google.com" _target="blank">Google Cloud</a>
 
 ### What is Computer Chess?
 Computer chess includes both hardware (dedicated computers) and software capable of playing chess. Computer chess provides opportunities for players to practice even in the absence of human opponents, and also provides opportunities for analysis, entertainment and training. [Read More](https://en.wikipedia.org/wiki/Computer_chess)
 
 ### About Bionic_X
-Bionic_X plays on lichess as a chess robot. It uses the (lichess-bot API)[https://github.com/ShailChoksi/lichess-bot] and runs on Google's Infrastructure.
+Bionic_X plays on lichess as a chess robot. It uses the [lichess-bot API](https://github.com/ShailChoksi/lichess-bot) and runs on Google's Infrastructure.
 
 #### Hardware
 * Intel Xeon Scalable Processor (Skylake) - 12 cores, 24 threads

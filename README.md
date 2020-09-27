@@ -24,4 +24,4 @@ Bionic_X plays on lichess as a chess robot. It uses the [lichess-bot API](https:
 [Bullet Performance](https://lichess.org/@/Bionic_X/perf/bullet) <br>
 [Blitz Performance](https://lichess.org/@/Bionic_X/perf/blitz)
 
-https://raw.githubusercontent.com/CalKK8/Bionic_X/master/Bionic_X.png
+![Bionic_X](https://raw.githubusercontent.com/CalKK8/Bionic_X/master/Bionic_X.png)
